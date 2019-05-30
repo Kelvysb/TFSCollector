@@ -1,6 +1,16 @@
 # TFSCollector
 Tool for collecting workitens data from a TFS server.
 
+# Install:
+
+dotnet tool install --global TFSCollector
+
+https://www.nuget.org/packages/TFSCollector/
+
+Requires .net core 2.2 or newer
+
+https://dotnet.microsoft.com/download/dotnet-core/2.2
+
 # Usage:
 
 ```
