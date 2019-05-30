@@ -3,7 +3,7 @@ Tool for collecting workitens data from a TFS server.
 
 # Usage:
 
-'''
+```
 Update workitens:
  --update [Query name] (if query name ommited will the default query)
      --csv <csvName> (optional generate CSV)
@@ -27,4 +27,4 @@ Configure connection:
      -v or --version
  Help:
      -h or --help
-'''
+```
